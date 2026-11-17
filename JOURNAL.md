@@ -68,3 +68,22 @@ screen shot while buildong
 <img width="1892" height="964" alt="Screenshot 2026-11-16 223935" src="https://github.com/user-attachments/assets/1856190e-588e-4d8a-a0ae-01d0f7139b4c" />
 
 **Total time spent: 3 hours**
+
+
+# November 17: Completed the Enclosure Design 
+
+I started designing the case for you Atulu gather measurement information and then started designing in one shape 
+
+
+
+
+<img width="1156" height="791" alt="Screenshot 2026-11-16 234423" src="https://github.com/user-attachments/assets/d428e606-6708-437b-bbf2-1c17d40fd18d" />
+<img width="442" height="425" alt="Screenshot 2026-11-17 130712" src="https://github.com/user-attachments/assets/a1246b63-0f50-4d2a-9bb7-5cd5233ae658" />
+<img width="618" height="661" alt="Screenshot 2026-11-17 134133" src="https://github.com/user-attachments/assets/01826b70-bd24-4b3d-bc2f-8c34113a5f02" />
+<img width="817" height="491" alt="Screenshot 2026-11-17 134110" src="https://github.com/user-attachments/assets/95f2f410-34a3-4084-9c8c-525f5715601f" />
+<img width="702" height="561" alt="Screenshot 2026-11-17 134117" src="https://github.com/user-attachments/assets/1a4e4357-4db8-416d-b0ad-62df344cc5d3" />
+<img width="637" height="511" alt="Screenshot 2026-11-17 124841" src="https://github.com/user-attachments/assets/1b22b57a-b4cf-4901-a43c-3d9dff3f0ec5" />
+
+
+
+**Total time spent: 1 hour 30 minute**
